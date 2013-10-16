@@ -1,4 +1,3 @@
-ClaseTDD
-========
+# Bank OCR
 
-Explicacion Practica del uso de Test Driven Development
+[Kata Bank OCR](http://codingdojo.org/cgi-bin/wiki.pl?KataBankOCR)
